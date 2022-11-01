@@ -1,3 +1,4 @@
 m1 commit /master
 m2 commit /master
 s1 commit /slave
+s2 commit /slave
